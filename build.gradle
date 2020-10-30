@@ -23,13 +23,13 @@ allprojects {
 }
 
 ext {
-    sdk = 28
+    sdk = 29
     minSdk = 14
 
     github = 'https://github.com/florent37/SingleDateAndTimePicker'
 
     libraryGroup = 'com.github.florent37'
     libraryName = 'singledateandtimepicker'
-    libraryVersion = "2.2.8"
+    libraryVersion = "2.3.1"
     libraryDescription = 'SingleDateAndTimePicker'
 }
